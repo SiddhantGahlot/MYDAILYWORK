@@ -1,15 +1,15 @@
-**SIMPLE CALCULATOR**
+# SIMPLE CALCULATOR
 
-This is a basic Python-based calculator that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. The calculator runs in the command line and allows users to input two numbers and choose an operation to perform.
+**This is a basic Python-based calculator that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. The calculator runs in the command line and allows users to input two numbers and choose an operation to perform.**
 
-**Features**
+## Features
 
-- **Addition**:- Adds two numbers.
-- **Subtraction**:- Subtracts the second number from the first.
-- **Multiplication**:- Multiplies two numbers.
-- **Division**:- Divides the first number by the second; Includes error handling for division by zero.
+- **Addition:- Adds two numbers.**
+- **Subtraction:- Subtracts the second number from the first.**
+- **Multiplication:- Multiplies two numbers.***
+- **Division:- Divides the first number by the second; Includes error handling for division by zero.**
 
-**How to Use**
+## How to Use
 
 1. **Clone the Repository**
    ```bash
@@ -22,7 +22,7 @@ This is a basic Python-based calculator that performs simple arithmetic operatio
 - **Open a terminal or command prompt.**
 - **Navigate to the directory containing calculator.py.**
 
-   Run the script:
+   **Run the script:**
    ```bash
    python calculator.py
 
@@ -37,7 +37,7 @@ This is a basic Python-based calculator that performs simple arithmetic operatio
 - **Enter the two numbers when prompted.**
 - **The result will be displayed in the terminal.**
 
-   **Example**
+   ### Example
    ```bash
    Welcome to the Simple Calculator
    Select operation:
@@ -50,20 +50,20 @@ This is a basic Python-based calculator that performs simple arithmetic operatio
    Enter second number: 5
    The result of 10.0 + 5.0 is: 15.0
 
-**Requirements**
+### Requirements
 - **`Python 3.x`**
 
-**Contribution Guidelines**
+## Contribution Guidelines
 
-Feel free to fork this repository, make changes, and submit a pull request. Any contributions are greatly appreciated!
+**Feel free to fork this repository, make changes, and submit a pull request. Any contributions are greatly appreciated!**
 
-**Contact**
+## Contact
 
-If you have any questions or suggestions, feel free to reach out:
+**If you have any questions or suggestions, feel free to reach out:**
 
-- **Email:-** sg9407176@gmail.com
-- **LinkedIn:-** https://linkedin.com/in/siddhant-gahlot-b91929308
+- **Email:- sg9407176@gmail.com**
+- **LinkedIn:- https://linkedin.com/in/siddhant-gahlot-b91929308**
 
-**License**
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+**This project is licensed under the MIT License - see the LICENSE file for details.**
